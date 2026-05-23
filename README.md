@@ -48,6 +48,8 @@ Configure your public chatbot's visual colors, primary styles, and test its answ
 | Feature | Free Version | PRO Version |
 | :--- | :---: | :---: |
 | **Public Chatbot (`[aiohm_chat]`)** | ✅ Included | ✅ Included |
+| **Private Brand Assistant (`[aiohm_private_assistant]`)** | ✅ Included | ✅ Included |
+| **Private/Sensitive Knowledge Bases** | ✅ Included | ✅ Included |
 | **Semantic Search & Chunking** | ✅ Included | ✅ Included |
 | **OpenAI, Gemini, Claude, Groq** | ✅ Included | ✅ Included |
 | **WP 7.0 Connectors Support** | ✅ Included | ✅ Included |
@@ -55,8 +57,7 @@ Configure your public chatbot's visual colors, primary styles, and test its answ
 | **Brand Voice Personality Soul Signature** | ✅ Included | ✅ Included |
 | **Q&A Generator Shortcode** | ✅ Included | ✅ Included |
 | **Search Shortcode (`[aiohm_search]`)** | ✅ Included | ✅ Included |
-| **Private Brand Assistant (`[aiohm_private_assistant]`)** | ❌ Upgrade | ✅ Included |
-| **Private/Sensitive Knowledge Bases** | ❌ Upgrade | ✅ Included |
+| **MCP (Model Context Protocol) Integration** | ❌ Upgrade | ✅ Included |
 | **Ollama Local AI Processing (100% Offline)** | ❌ Upgrade | ✅ Included |
 | **White Label Mode (Remove branding)** | ❌ Upgrade | ✅ Included |
 | **Unlimited Agency Deployments** | ❌ Upgrade | ✅ Included |

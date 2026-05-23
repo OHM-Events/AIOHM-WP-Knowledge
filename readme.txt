@@ -19,6 +19,8 @@ Transform your WordPress site into an intelligent, WordPress 7.0-ready knowledge
 The free version includes all the core functionality you need to get started with AI-powered knowledge bases:
 
 * **Public Chatbot**: Add an intelligent chatbot to your website that answers visitor questions based on your content
+* **Private Brand Assistant**: Deploy a private internal AI partner (`[aiohm_private_assistant]`) for authenticated users and team workflows
+* **Private Knowledge Segregation**: Manage private, sensitive knowledge base content kept secure from the public chatbot
 * **Knowledge Base Management**: Scan and index your WordPress posts, pages, and uploaded documents
 * **Multi-Provider AI Support**: Choose from OpenAI, Google Gemini, Anthropic Claude, Groq, and ShareAI
 * **Brand Voice Configuration**: Set up your chatbot's personality and communication style
@@ -26,7 +28,7 @@ The free version includes all the core functionality you need to get started wit
 * **Admin Dashboard**: Complete control center for setup and management
 * **Responsive Design**: Works seamlessly across all devices
 
-Upgrade to Pro for advanced features like private AI assistants, local AI processing, and white-label licensing.
+Upgrade to Pro for advanced features like MCP (Model Context Protocol) integration, local AI processing with Ollama, and white-label licensing.
 
 ## Key Features
 
@@ -61,6 +63,7 @@ Upgrade to Pro for advanced features like private AI assistants, local AI proces
 * **White label licensing for unlimited site deployments**
 * **Agency and reseller program support**
 * **Complete local AI processing with Ollama integration**
+* **MCP (Model Context Protocol) API support for external AI assistant integrations**
 
 **Performance Optimized**
 * WordPress object cache integration
