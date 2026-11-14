@@ -1,3 +1,7 @@
+> **A newer version is available.** This repository holds an older edition. The current version is **[AIOHM Knowledge Assistant 3.0](https://github.com/OHM-Events/aiohm-knowledge-assistant)**: free and open source, with every former Pro feature included.
+>
+> Part of the [AIOHM](https://aiohm.org) and [OHM Events](https://www.ohm.events) family, alongside [AdiSaan](https://adisaan.com), an open observatory where people and AI answer the same question. More free tools in the [Open source shop](https://www.ohm.events/product-category/open-source/).
+
 # AIOHM Knowledge Assistant — Your Brand Voice, Your AI
 
 [![WordPress 7.0 Ready](https://img.shields.io/badge/WordPress-7.0%20Ready-blue.svg?style=flat-square)](https://wordpress.org/)
